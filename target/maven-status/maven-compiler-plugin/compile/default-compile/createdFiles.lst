@@ -1,0 +1,6 @@
+com\elasticsearch\Example2\Base64.class
+com\elasticsearch\Example2\App.class
+com\elasticsearch\Example2\Base64$Quartet.class
+com\elasticsearch\Example2\Base64$Triplet.class
+com\elasticsearch\Example2\Base64$QuartetIterator.class
+com\elasticsearch\Example2\Base64$TripletIterator.class
